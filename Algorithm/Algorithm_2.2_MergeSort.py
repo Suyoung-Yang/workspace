@@ -8,7 +8,7 @@ def mergesort(S):
         U = mergesort(S[0:mid])
         V = mergesort(S[mid:n])
         return merge(U,V)
-
+# 한번 확인해볼까요?
 # conquer 27, 10
 def merge(U,V):
     A = []
