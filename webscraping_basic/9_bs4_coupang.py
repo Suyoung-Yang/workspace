@@ -36,3 +36,5 @@ for item in items:
         rate_count = "평점 없음"
 
     print(name, price, rate, rate_count)
+
+# 수정하고 싶어요.
