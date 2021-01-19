@@ -81,3 +81,5 @@ for movie in movies:
     print("-"*120)
 
 browser.quit()
+
+#  웹 스크래핑 4:15:23초 완료.
