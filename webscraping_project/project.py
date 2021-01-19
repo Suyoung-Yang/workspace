@@ -83,11 +83,6 @@ def scrape_it_news():
         print_news(idx, title, link)
     print()
 
-
-
-
-
-
 if __name__ == "__main__":
     scrape_weather() # 오늘 날씨 정보 정보가져오기
     scrape_news()
